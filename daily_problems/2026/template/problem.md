@@ -1,3 +1,3 @@
-| Difficulty | Problem | 
-|------------|---------|
+| Difficulty | Problem |
+|:----------:|:-------:|
 |            |         |     

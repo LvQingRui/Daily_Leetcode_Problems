@@ -1,3 +1,3 @@
-| Difficulty | Problem                                                                                                                                                 | 
-|------------|---------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 1317       | [1343. 大小为 K 且平均值大于等于阈值的子数组数目](https://leetcode.cn/problems/number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/description/) |     
+| Difficulty |                                                                         Problem                                                                         | 
+|:----------:|:-------------------------------------------------------------------------------------------------------------------------------------------------------:|
+|    1317    | [1343. 大小为 K 且平均值大于等于阈值的子数组数目](https://leetcode.cn/problems/number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/description/) |     
