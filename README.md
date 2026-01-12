@@ -2,8 +2,9 @@
 
 ## 定长滑窗题目(已解决)
 
-1. [1456.定长子串中元音的最大数目](https://leetcode.cn/problems/maximum-number-of-vowels-in-a-substring-of-given-length/description/)
-2. [643.子数组最大平均数 I](https://leetcode.cn/problems/maximum-average-subarray-i/description/)
-3. [1343.大小为 K 且平均值大于等于阈值的子数组数目](https://leetcode.cn/problems/number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/description/)
-4. [2090.半径为k的子数组平均值](https://leetcode.cn/problems/k-radius-subarray-averages/description/)
-5. [2379. 得到K个黑块的最少涂色次数](https://leetcode.cn/problems/minimum-recolors-to-get-k-consecutive-black-blocks/)
+1. [1456.定长子串中元音的最大数目](https://leetcode.cn/problems/maximum-number-of-vowels-in-a-substring-of-given-length/)
+2. [643.子数组最大平均数 I](https://leetcode.cn/problems/maximum-average-subarray-i/)
+3. [1343.大小为 K 且平均值大于等于阈值的子数组数目](https://leetcode.cn/problems/number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/)
+4. [2090.半径为k的子数组平均值](https://leetcode.cn/problems/k-radius-subarray-averages/)
+5. [2379.得到K个黑块的最少涂色次数](https://leetcode.cn/problems/minimum-recolors-to-get-k-consecutive-black-blocks/)
+6. [2841.几乎唯一子数组的最大和](https://leetcode.cn/problems/maximum-sum-of-almost-unique-subarray/)     
