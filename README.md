@@ -14,3 +14,4 @@
 ## 不定长滑窗题目(已解决)
 
 1. [209.长度最小的子数组](https://leetcode.cn/problems//minimum-size-subarray-sum/)
+2. [713.乘积小于 K的子数组](https://leetcode.cn/problems/subarray-product-less-than-k/)     
