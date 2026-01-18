@@ -1,6 +1,6 @@
-# Daily_Leetcode_Problems
+# 滑动窗口问题
 
-## 定长滑窗题目(已解决)
+## 定长滑窗题目
 
 1. [1456.定长子串中元音的最大数目](https://leetcode.cn/problems/maximum-number-of-vowels-in-a-substring-of-given-length/)
 2. [643.子数组最大平均数 I](https://leetcode.cn/problems/maximum-average-subarray-i/)
@@ -11,7 +11,16 @@
 7. [2461.长度为K子数组中的最大和](https://leetcode.cn/problems/maximum-sum-of-distinct-subarrays-with-length-k/)
 8. [1423.可获得的最大点数](https://leetcode.cn/problems/maximum-points-you-can-obtain-from-cards/)
 
-## 不定长滑窗题目(已解决)
+## 不定长滑窗题目
+
+### 求最长/最大
+
+1. [3.无重复字符的最长子串](https://leetcode.cn/problems/longest-substring-without-repeating-characters/)
+
+### 求最短/最小
 
 1. [209.长度最小的子数组](https://leetcode.cn/problems//minimum-size-subarray-sum/)
-2. [713.乘积小于 K的子数组](https://leetcode.cn/problems/subarray-product-less-than-k/)     
+
+### 求子数组个数
+
+1. [713.乘积小于 K的子数组](https://leetcode.cn/problems/subarray-product-less-than-k/)
