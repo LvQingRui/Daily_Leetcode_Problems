@@ -18,6 +18,7 @@
 1. [3.无重复字符的最长子串](https://leetcode.cn/problems/longest-substring-without-repeating-characters/)
 2. [3090.每个字符最多出现两次的最长子字符串](https://leetcode.cn/problems/maximum-length-substring-with-two-occurrences/)
 3. [1493.删掉一个元素以后全为1的最长子数组](https://leetcode.cn/problems/longest-subarray-of-1s-after-deleting-one-element/)
+4. [3634.使数组平衡的最少移除数目](https://leetcode.cn/problems/minimum-removals-to-balance-array/)
 
 ### 求最短/最小
 
