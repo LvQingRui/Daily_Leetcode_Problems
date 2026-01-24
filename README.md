@@ -20,6 +20,7 @@
 3. [1493.删掉一个元素以后全为1的最长子数组](https://leetcode.cn/problems/longest-subarray-of-1s-after-deleting-one-element/)
 4. [3634.使数组平衡的最少移除数目](https://leetcode.cn/problems/minimum-removals-to-balance-array/)
 5. [1208. 尽可能使字符串相等](https://leetcode.cn/problems/get-equal-substrings-within-budget/)
+6. [904.水果成篮](https://leetcode.cn/problems/fruit-into-baskets/)
 
 ### 求最短/最小
 
