@@ -21,6 +21,7 @@
 4. [3634.使数组平衡的最少移除数目](https://leetcode.cn/problems/minimum-removals-to-balance-array/)
 5. [1208. 尽可能使字符串相等](https://leetcode.cn/problems/get-equal-substrings-within-budget/)
 6. [904.水果成篮](https://leetcode.cn/problems/fruit-into-baskets/)
+7. [1695.删除子数组的最大得分](https://leetcode.cn/problems/maximum-erasure-value/)
 
 ### 求最短/最小
 
