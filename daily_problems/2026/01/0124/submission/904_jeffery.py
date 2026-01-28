@@ -8,15 +8,14 @@ from collections import defaultdict
 # IMPORTANT!! Submit Code Region Begin(Do not remove this line)
 class Solution:
     def totalFruit(self, fruits: list[int]) -> int:
-        ans = left = 0
+        left = ans = 0
         cnt = defaultdict(int)
-        for right, in_ in enumerate(fruits):
-            cnt[in_] += 1  # fruits[right] 进入窗口
-            while len(cnt) > 2:  # 不满足要求
-                out = fruits[left]
-                cnt[out] -= 1  # fruits[left] 离开窗口
-                if cnt[out] == 0:
-                    del cnt[out]
+        for right, x in enumerate(fruits):
+            cnt[x] += 1
+            while len(cnt) > 2:
+                cnt[fruits[left]] -= 1
+                if cnt[fruits[left]] == 0:
+                    del cnt[fruits[left]]
                 left += 1
             ans = max(ans, right - left + 1)
         return ans
