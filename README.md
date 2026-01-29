@@ -22,6 +22,7 @@
 5. [1208. 尽可能使字符串相等](https://leetcode.cn/problems/get-equal-substrings-within-budget/)
 6. [904.水果成篮](https://leetcode.cn/problems/fruit-into-baskets/)
 7. [1695.删除子数组的最大得分](https://leetcode.cn/problems/maximum-erasure-value/)
+8. [2958.最多K个重复元素的最长子数组](https://leetcode.cn/problems/length-of-longest-subarray-with-at-most-k-frequency/)
 
 ### 求最短/最小
 
