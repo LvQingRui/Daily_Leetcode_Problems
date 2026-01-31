@@ -24,6 +24,7 @@
 7. [1695.删除子数组的最大得分](https://leetcode.cn/problems/maximum-erasure-value/)
 8. [2958.最多K个重复元素的最长子数组](https://leetcode.cn/problems/length-of-longest-subarray-with-at-most-k-frequency/)
 9. [2024.考试的最大困扰度](https://leetcode.cn/problems/maximize-the-confusion-of-an-exam/)
+10. [1004.最大连续1的个数 III](https://leetcode.cn/problems/max-consecutive-ones-iii/)
 
 ### 求最短/最小
 
